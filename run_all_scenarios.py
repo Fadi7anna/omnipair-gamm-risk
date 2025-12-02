@@ -216,10 +216,8 @@ def run_complete_analysis():
     print("\n" + "="*80)
     print("✅ ANALYSIS COMPLETE!")
     print("="*80)
-    print("\nNext steps:")
-    print("  1. Review results above")
-    print("  2. Run: python visualize_results.py (to generate charts)")
-    print("  3. Run: streamlit run dashboard_app.py (for interactive exploration)")
+    print("\nResults saved to: analysis_results.json")
+    print("Review detailed findings in: results/DETAILED_SIMULATION_RESULTS.md")
     print("\n")
 
 

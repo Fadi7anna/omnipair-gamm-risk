@@ -263,6 +263,5 @@ if __name__ == "__main__":
     print(f"\n  Mango: {mango_path}")
     print(f"  LUNA: {luna_path}")
     print(f"  FTT: {ftt_path}")
-    print("\n💡 These simulate actual crisis events for testing the framework")
-    print("   Ready to run simulations!\n")
+    print("\nSynthetic crisis datasets created successfully.\n")
 

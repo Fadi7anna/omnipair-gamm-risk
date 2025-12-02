@@ -468,6 +468,5 @@ if __name__ == "__main__":
             analyze_price_data(filepath)
     
     print("\n✅ All data collected and verified!")
-    print("\n💡 Next: Run simulations with collected data")
-    print("   Example: python gamm_pool.py")
+    print("\nData ready for simulation analysis.")
 
