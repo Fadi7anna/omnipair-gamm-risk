@@ -297,28 +297,7 @@ Every transaction:
 
 ---
 
-## 7. Simulation Implementation Priorities
-
-### Phase 1: Core Mechanics ✅
-- [x] EMA calculation
-- [x] Spot price calculation
-- [x] Dynamic CF calculation
-- [x] Liquidation logic
-
-### Phase 2: Configuration System (Next)
-- [ ] Modular toggles (EMA on/off, Dynamic CF on/off, etc.)
-- [ ] Parameter adjustment (half-life, max CF, etc.)
-- [ ] Preset configurations (Traditional, Full GAMM, etc.)
-
-### Phase 3: Pool State Management
-- [ ] Reserve tracking
-- [ ] Position management
-- [ ] Time-series stepping
-- [ ] Event logging
-
----
-
-## 8. Key Questions Answered
+## 7. Key Questions Answered
 
 **Q: What is the default half-life?**  
 A: Not specified in constants, but range is 60s (1min) to 43,200s (12hr). Will test multiple values: 60s, 120s, 300s.
@@ -334,6 +313,7 @@ A: Whenever spot < EMA, CF is reduced proportionally to prevent borrowing agains
 
 ---
 
-**Status**: Contract analysis complete. Ready to build simulation engine.
-**Next**: Set up Python project structure and implement core modules.
+## Summary
+
+This analysis documents the extraction of all critical formulas, parameters, and logic from the OmniPair smart contracts. The extracted specifications serve as the foundation for building an accurate Python simulation framework that replicates the protocol's behavior under various crisis scenarios.
 
