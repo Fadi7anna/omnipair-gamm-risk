@@ -217,7 +217,7 @@ When referencing this analysis:
 
 **Format**: OmniPair GAMM Protocol Risk Analysis, Quantitative Simulation Study, December 2025
 
-**GitHub**: https://github.com/[username]/omnipair-gamm-risk
+**GitHub**: https://github.com/Fadi7anna/omnipair-gamm-risk
 
 ---
 
