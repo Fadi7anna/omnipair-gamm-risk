@@ -1,0 +1,113 @@
+{
+  "Mango Markets Exploit": {
+    "Traditional Lending": {
+      "bad_debt_usd": 80837.8125,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": 999,
+      "lp_return_pct": -100.105494425,
+      "total_liquidations": 2
+    },
+    "Only EMA": {
+      "bad_debt_usd": 9783.75,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": 999,
+      "lp_return_pct": -96.5369737778,
+      "total_liquidations": 2
+    },
+    "Only Dynamic CF": {
+      "bad_debt_usd": 80837.8125,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": 999,
+      "lp_return_pct": -100.105494425,
+      "total_liquidations": 2
+    },
+    "EMA + Dynamic CF": {
+      "bad_debt_usd": 9783.75,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": 999,
+      "lp_return_pct": -96.5369737778,
+      "total_liquidations": 2
+    },
+    "Full OmniPair GAMM": {
+      "bad_debt_usd": 2368.35,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": 999,
+      "lp_return_pct": -96.16620377779999,
+      "total_liquidations": 2
+    }
+  },
+  "LUNA Collapse": {
+    "Traditional Lending": {
+      "bad_debt_usd": 0.0,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": -100,
+      "lp_return_pct": -103.34383820434697,
+      "total_liquidations": 2
+    },
+    "Only EMA": {
+      "bad_debt_usd": 0.0,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": -100,
+      "lp_return_pct": -103.4619655694178,
+      "total_liquidations": 2
+    },
+    "Only Dynamic CF": {
+      "bad_debt_usd": 0.0,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": -100,
+      "lp_return_pct": -103.34383820434697,
+      "total_liquidations": 2
+    },
+    "EMA + Dynamic CF": {
+      "bad_debt_usd": 0.0,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": -100,
+      "lp_return_pct": -103.4619655694178,
+      "total_liquidations": 2
+    },
+    "Full OmniPair GAMM": {
+      "bad_debt_usd": 0.0,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": -100,
+      "lp_return_pct": -103.1203038431222,
+      "total_liquidations": 2
+    }
+  },
+  "FTT Collapse": {
+    "Traditional Lending": {
+      "bad_debt_usd": 0.0,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": 225,
+      "lp_return_pct": 96.168782,
+      "total_liquidations": 0
+    },
+    "Only EMA": {
+      "bad_debt_usd": 0.0,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": 214,
+      "lp_return_pct": 95.90553200000001,
+      "total_liquidations": 0
+    },
+    "Only Dynamic CF": {
+      "bad_debt_usd": 0.0,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": 225,
+      "lp_return_pct": 96.168782,
+      "total_liquidations": 0
+    },
+    "EMA + Dynamic CF": {
+      "bad_debt_usd": 0.0,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": 214,
+      "lp_return_pct": 95.90553200000001,
+      "total_liquidations": 0
+    },
+    "Full OmniPair GAMM": {
+      "bad_debt_usd": 0.0,
+      "bad_debt_rate_pct": 0.0,
+      "protocol_health_pct": 248,
+      "lp_return_pct": 96.682388,
+      "total_liquidations": 0
+    }
+  }
+}

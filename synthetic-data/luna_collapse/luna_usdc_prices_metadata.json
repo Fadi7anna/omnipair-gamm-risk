@@ -1,0 +1,11 @@
+{
+  "event_name": "LUNA/UST Collapse (Synthetic)",
+  "description": "Death spiral simulation based on actual collapse",
+  "date_range": "2022-05-07 to 2022-05-13",
+  "price_range": {
+    "start": 79.5,
+    "bottom": 5.7688979791241474e-05,
+    "drop_pct": 99.99
+  },
+  "data_points": 144
+}

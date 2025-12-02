@@ -1,0 +1,11 @@
+{
+  "event_name": "FTX Token Collapse (Synthetic)",
+  "description": "Gradual then rapid collapse simulation",
+  "date_range": "2022-11-01 to 2022-11-10",
+  "price_range": {
+    "start": 22.0,
+    "bottom": 2.0,
+    "drop_pct": 90.9
+  },
+  "data_points": 228
+}
