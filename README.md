@@ -23,6 +23,7 @@ This repository contains a complete risk analysis of OmniPair's GAMM protocol, t
 - **[Contract Analysis](analysis/contract_analysis.md)** - Formula extraction documentation
 
 ### For Developers
+- **[Interactive Jupyter Notebook](OmniPair_GAMM_Risk_Analysis.ipynb)** - Run simulations interactively with visualizations
 - **[Simulation Modules](modules/)** - Core Python implementation
 - **[Requirements](requirements.txt)** - Dependencies
 - **[Run All Scenarios](run_all_scenarios.py)** - Execute complete test suite

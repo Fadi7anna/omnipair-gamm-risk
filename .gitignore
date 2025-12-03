@@ -13,7 +13,9 @@ build/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+# Notebook output files
+notebook_simulation_results.csv
+notebook_simulation_summary.json
 
 # IDE
 .vscode/
